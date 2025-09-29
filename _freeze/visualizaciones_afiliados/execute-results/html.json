@@ -1,0 +1,12 @@
+{
+  "hash": "a2e7fcf96789707a50fcf9afbaddf406",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Visualizaciones — Afiliados 2025 (Ene–Ago)\"\nformat:\n  html:\n    toc: true\njupyter: python3\nexecute:\n  echo: false\n  warning: false\n  message: false\n---\n\n## 1) Cargar datos\nimport pandas as pd, matplotlib.pyplot as plt\nplt.rcParams[\"figure.figsize\"] = (9,5)\nplt.rcParams[\"axes.grid\"] = True\nplt.rcParams[\"figure.autolayout\"] = True\n\ndf = pd.read_csv(\"data/dataset.csv\")\ndf.head()\n\n",
+    "supporting": [
+      "visualizaciones_afiliados_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

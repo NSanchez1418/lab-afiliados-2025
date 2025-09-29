@@ -1,0 +1,38 @@
+SEXO;RANGO ETARIO;SEGURO GENERAL OBLIGATORIO;;;;REGIMEN ESPECIAL VOLUNTARIO;;TOTAL
+;;PUBLICA;PRIVADA;INDEPENDIENTES;SEMI CONTRIBUTIVO;VOLUNTARIOS EN EL ECUADOR;VOLUNTARIOS EN EL EXTERIOR;
+Mujer;De 15 a 20 anos;444;14.458;1.023;0;2.804;37;18.766
+;De 21 a 30 anos;37.605;218.763;20.901;42.687;11.676;520;332.152
+;De 31 a 40 anos;115.855;237.383;25.265;89.189;13.371;1.621;482.684
+;De 41 a 50 anos;94.999;162.650;30.505;69.358;19.978;2.715;380.205
+;De 51 a 60 anos;67.122;95.193;35.879;37.993;39.834;4.588;280.609
+;De 61 a 70 anos;12.438;34.409;18.893;22.925;31.860;2.992;123.517
+;De 71 a 80 anos;222;4.112;1.622;3.483;6.262;129;15.830
+;De 81 a 90 anos;5;964;301;26;1.880;9;3.185
+;De 91 anos en adelante;1;130;42;10;366;0;549
+;Rango Edad;328.691;768.062;134.431;265.671;128.031;12.611;1.637.497
+Hombre;De 15 a 20 anos;769;37.843;1.154;0;2.768;33;42.567
+;De 21 a 30 anos;36.385;387.616;17.171;141;11.082;525;452.920
+;De 31 a 40 anos;97.435;374.634;30.749;159;11.051;1.512;515.540
+;De 41 a 50 anos;85.041;255.684;42.207;222;12.934;2.016;398.104
+;De 51 a 60 anos;64.331;139.842;48.045;278;21.888;3.128;277.512
+;De 61 a 70 anos;18.314;39.765;27.085;451;19.967;2.146;107.728
+;De 71 a 80 anos;843;3.686;2.457;32;3.657;93;10.768
+;De 81 a 90 anos;32;597;367;2;935;11;1.944
+;De 91 anos en adelante;0;47;29;2;109;0;187
+;Rango Edad;303.150;1.239.714;169.264;1.287;84.391;9.464;1.807.270
+TOTAL;De 15 a 20 anos;1.213;52.301;2.177;0;5.572;70;61.333
+;De 21 a 30 anos;73.990;606.379;38.072;42.828;22.758;1.045;785.072
+;De 31 a 40 anos;213.290;612.017;56.014;89.348;24.422;3.133;998.224
+;De 41 a 50 anos;180.040;418.334;72.712;69.580;32.912;4.731;778.309
+;De 51 a 60 anos;131.453;235.035;83.924;38.271;61.722;7.716;558.121
+;De 61 a 70 anos;30.752;74.174;45.978;23.376;51.827;5.138;231.245
+;De 71 a 80 anos;1.065;7.798;4.079;3.515;9.919;222;26.598
+;De 81 a 90 anos;37;1.561;668;28;2.815;20;5.129
+;De 91 anos en adelante;1;177;71;12;475;0;736
+;Rango Edad;631.841;2.007.776;303.695;266.958;212.422;22.075;3.444.767
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.;;;;;;;;
+Nota Tecnica 2: La informacion tiene  fecha de corte  hasta el ultimo dia del mes de diciembre  de 2024.;;;;;;;;
+Nota Tecnica 3: La informacion no completa afiliaciones simultaneas.;;;;;;;;
+"Nota Tecnica 4: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.";;;;;;;;
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 07/Febrero/2025";;;;;;;;
+Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Febrero de 2025;;;;;;;;

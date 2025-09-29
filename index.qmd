@@ -1,0 +1,6 @@
+---
+title: "Lab Visualización — Afiliados 2025 (Ene–Ago)"
+---
+
+Este sitio contiene **tres visualizaciones** creadas en Python a partir del dataset combinado (enero–agosto 2025).
+Abre la pestaña **Visualizaciones** para ver los gráficos.

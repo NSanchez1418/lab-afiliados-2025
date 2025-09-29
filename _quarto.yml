@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lab Visualización — Afiliados 2025 (Ene–Ago)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: visualizaciones_afiliados.qmd
+        text: Visualizaciones
+
+format:
+  html:
+    toc: true
+    theme: cosmo
+
+execute:
+  freeze: auto

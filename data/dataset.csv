@@ -1,0 +1,607 @@
+﻿SEXO,RANGO ETARIO,SEGURO GENERAL OBLIGATORIO,Unnamed: 3,Unnamed: 4,Unnamed: 5,Regimen ESPECIAL VOLUNTARIO,Unnamed: 7,TOTAL,REGIMEN ESPECIAL VOLUNTARIO
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,VOLUNTARIOS EN EL ECUADOR,VOLUNTARIOS EN EL EXTERIOR,,
+Mujer,De 15 a 20 anos,468,14.476,1.209,0,2.948,43,19.144,
+,De 21 a 30 anos,39.502,219.619,21.958,36.098,12.020,581,329.778,
+,De 31 a 40 anos,117.404,239.275,25.717,79.932,13.648,1.695,477.671,
+,De 41 a 50 anos,97.246,163.691,30.842,64.766,20.330,2.819,379.694,
+,De 51 a 60 anos,67.867,95.510,36.286,36.502,40.498,4.761,281.424,
+,De 61 a 70 anos,12.425,34.328,19.139,22.967,32.624,3.085,124.568,
+,De 71 a 80 anos,216,4.015,1.615,3.919,6.235,144,16.144,
+,De 81 a 90 anos,4,946,302,31,1.832,9,3.124,
+,De 91 anos en adelante,1,123,40,8,358,0,530,
+,Rango Edad,335.133,771.983,137.108,244.223,130.493,13.137,1.632.077,
+Hombre,De 15 a 20 anos,740,39.125,1.356,0,2.940,32,44.193,
+,De 21 a 30 anos,37.118,393.919,17.986,122,11.451,576,461.172,
+,De 31 a 40 anos,98.578,378.795,31.022,146,11.453,1.630,521.624,
+,De 41 a 50 anos,86.316,258.373,42.247,204,13.400,2.096,402.636,
+,De 51 a 60 anos,64.760,141.496,48.536,263,22.488,3.282,280.825,
+,De 61 a 70 anos,18.578,39.955,27.284,446,20.543,2.261,109.067,
+,De 71 a 80 anos,836,3.605,2.437,41,3.607,101,10.627,
+,De 81 a 90 anos,32,576,370,2,920,11,1.911,
+,De 91 anos en adelante,0,54,25,3,103,0,185,
+,Rango Edad,306.958,1.255.898,171.263,1.227,86.905,9.989,1.832.240,
+TOTAL,De 15 a 20 anos,1.208,53.601,2.565,0,5.888,75,63.337,
+,De 21 a 30 anos,76.620,613.538,39.944,36.220,23.471,1.157,790.950,
+,De 31 a 40 anos,215.982,618.070,56.739,80.078,25.101,3.325,999.295,
+,De 41 a 50 anos,183.562,422.064,73.089,64.970,33.730,4.915,782.330,
+,De 51 a 60 anos,132.627,237.006,84.822,36.765,62.986,8.043,562.249,
+,De 61 a 70 anos,31.003,74.283,46.423,23.413,53.167,5.346,233.635,
+,De 71 a 80 anos,1.052,7.620,4.052,3.960,9.842,245,26.771,
+,De 81 a 90 anos,36,1.522,672,33,2.752,20,5.035,
+,De 91 anos en adelante,1,177,65,11,461,0,715,
+,Rango Edad,642.091,2.027.881,308.371,245.450,217.398,23.126,3.464.317,
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de mayo  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 05/Junio/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Junio de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,494,13.886,1.111,1,,40,18.401,2.869
+,De 21 a 30 anos,38.924,216.749,21.391,41.307,,544,330.838,11.923
+,De 31 a 40 anos,116.637,237.004,25.555,88.612,,1.647,483.024,13.569
+,De 41 a 50 anos,95.978,162.427,30.676,69.678,,2.775,381.712,20.178
+,De 51 a 60 anos,67.601,95.145,36.065,38.275,,4.677,281.983,40.220
+,De 61 a 70 anos,12.773,34.200,19.010,22.850,,3.031,124.150,32.286
+,De 71 a 80 anos,218,4.053,1.609,3.583,,121,15.851,6.267
+,De 81 a 90 anos,5,952,301,28,,9,3.159,1.864
+,De 91 anos en adelante,1,124,39,9,,0,534,361
+,Rango Edad,332.631,764.540,135.757,264.343,,12.844,1.639.652,129.537
+Hombre,De 15 a 20 anos,772,37.649,1.228,0,,35,42.583,2.899
+,De 21 a 30 anos,36.975,387.960,17.517,135,,540,454.421,11.294
+,De 31 a 40 anos,97.864,375.470,30.987,158,,1.563,517.283,11.241
+,De 41 a 50 anos,85.676,256.466,42.256,218,,2.058,399.832,13.158
+,De 51 a 60 anos,64.598,140.340,48.298,279,,3.195,278.812,22.102
+,De 61 a 70 anos,18.642,39.794,27.222,445,,2.210,108.626,20.313
+,De 71 a 80 anos,827,3.611,2.455,35,,98,10.683,3.657
+,De 81 a 90 anos,32,587,365,1,,11,1.910,914
+,De 91 anos en adelante,0,51,26,3,,0,182,102
+,Rango Edad,305.386,1.241.928,170.354,1.274,,9.710,1.814.332,85.680
+TOTAL,De 15 a 20 anos,1.266,51.535,2.339,1,,75,60.984,5.768
+,De 21 a 30 anos,75.899,604.709,38.908,41.442,,1.084,785.259,23.217
+,De 31 a 40 anos,214.501,612.474,56.542,88.770,,3.210,1.000.307,24.810
+,De 41 a 50 anos,181.654,418.893,72.932,69.896,,4.833,781.544,33.336
+,De 51 a 60 anos,132.199,235.485,84.363,38.554,,7.872,560.795,62.322
+,De 61 a 70 anos,31.415,73.994,46.232,23.295,,5.241,232.776,52.599
+,De 71 a 80 anos,1.045,7.664,4.064,3.618,,219,26.534,9.924
+,De 81 a 90 anos,37,1.539,666,29,,20,5.069,2.778
+,De 91 anos en adelante,1,175,65,12,,0,716,463
+,Rango Edad,638.017,2.006.468,306.111,265.617,,22.554,3.453.984,215.217
+Nota Tecnica 1: La Informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La Informacion tiene fecha de corte hasta el ultimo dia del mes de marzo  de 2025.,,,,,,,,,
+Nota Tecnica 3: La Informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoría ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la Informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Abril/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la Informacion Abril de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,444,14.458,1.023,0,,37,18.766,2.804
+,De 21 a 30 anos,37.605,218.763,20.901,42.687,,520,332.152,11.676
+,De 31 a 40 anos,115.855,237.383,25.265,89.189,,1.621,482.684,13.371
+,De 41 a 50 anos,94.999,162.650,30.505,69.358,,2.715,380.205,19.978
+,De 51 a 60 anos,67.122,95.193,35.879,37.993,,4.588,280.609,39.834
+,De 61 a 70 anos,12.438,34.409,18.893,22.925,,2.992,123.517,31.860
+,De 71 a 80 anos,222,4.112,1.622,3.483,,129,15.830,6.262
+,De 81 a 90 anos,5,964,301,26,,9,3.185,1.880
+,De 91 anos en adelante,1,130,42,10,,0,549,366
+,Rango Edad,328.691,768.062,134.431,265.671,,12.611,1.637.497,128.031
+Hombre,De 15 a 20 anos,769,37.843,1.154,0,,33,42.567,2.768
+,De 21 a 30 anos,36.385,387.616,17.171,141,,525,452.920,11.082
+,De 31 a 40 anos,97.435,374.634,30.749,159,,1.512,515.540,11.051
+,De 41 a 50 anos,85.041,255.684,42.207,222,,2.016,398.104,12.934
+,De 51 a 60 anos,64.331,139.842,48.045,278,,3.128,277.512,21.888
+,De 61 a 70 anos,18.314,39.765,27.085,451,,2.146,107.728,19.967
+,De 71 a 80 anos,843,3.686,2.457,32,,93,10.768,3.657
+,De 81 a 90 anos,32,597,367,2,,11,1.944,935
+,De 91 anos en adelante,0,47,29,2,,0,187,109
+,Rango Edad,303.150,1.239.714,169.264,1.287,,9.464,1.807.270,84.391
+TOTAL,De 15 a 20 anos,1.213,52.301,2.177,0,,70,61.333,5.572
+,De 21 a 30 anos,73.990,606.379,38.072,42.828,,1.045,785.072,22.758
+,De 31 a 40 anos,213.290,612.017,56.014,89.348,,3.133,998.224,24.422
+,De 41 a 50 anos,180.040,418.334,72.712,69.580,,4.731,778.309,32.912
+,De 51 a 60 anos,131.453,235.035,83.924,38.271,,7.716,558.121,61.722
+,De 61 a 70 anos,30.752,74.174,45.978,23.376,,5.138,231.245,51.827
+,De 71 a 80 anos,1.065,7.798,4.079,3.515,,222,26.598,9.919
+,De 81 a 90 anos,37,1.561,668,28,,20,5.129,2.815
+,De 91 anos en adelante,1,177,71,12,,0,736,475
+,Rango Edad,631.841,2.007.776,303.695,266.958,,22.075,3.444.767,212.422
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene  fecha de corte  hasta el ultimo dia del mes de diciembre  de 2024.,,,,,,,,,
+Nota Tecnica 3: La informacion no completa afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 07/Febrero/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Febrero de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,VOLUNTARIOS EN EL ECUADOR,VOLUNTARIOS EN EL EXTERIOR,,
+Mujer,De 15 a 20 anos,405,14.220,1.400,0,2.933,42,19.000,
+,De 21 a 30 anos,38.484,219.350,22.087,37.855,12.177,622,330.575,
+,De 31 a 40 anos,115.557,241.099,26.075,87.991,13.760,1.809,486.291,
+,De 41 a 50 anos,97.500,164.785,31.112,71.069,20.708,2.959,388.133,
+,De 51 a 60 anos,67.508,95.838,36.409,39.248,40.804,4.955,284.762,
+,De 61 a 70 anos,12.396,34.302,19.351,23.629,33.173,3.187,126.038,
+,De 71 a 80 anos,225,3.953,1.674,4.335,6.141,158,16.486,
+,De 81 a 90 anos,4,931,303,32,1.822,10,3.102,
+,De 91 anos en adelante,1,121,41,9,360,0,532,
+,Rango Edad,332.080,774.599,138.452,264.168,131.878,13.742,1.654.919,
+Hombre,De 15 a 20 anos,748,40.364,1.514,0,2.966,35,45.627,
+,De 21 a 30 anos,36.283,397.481,18.361,119,11.509,582,464.335,
+,De 31 a 40 anos,97.093,382.694,31.204,151,11.763,1.705,524.610,
+,De 41 a 50 anos,86.311,262.124,42.542,211,13.783,2.196,407.167,
+,De 51 a 60 anos,64.087,144.055,48.713,266,22.770,3.394,283.285,
+,De 61 a 70 anos,18.386,40.567,27.559,446,20.682,2.372,110.012,
+,De 71 a 80 anos,845,3.601,2.496,51,3.651,107,10.751,
+,De 81 a 90 anos,32,569,368,2,915,10,1.896,
+,De 91 anos en adelante,0,49,26,3,104,1,183,
+,Rango Edad,303.785,1.271.504,172.783,1.249,88.143,10.402,1.847.866,
+TOTAL,De 15 a 20 anos,1.153,54.584,2.914,0,5.899,77,64.627,
+,De 21 a 30 anos,74.767,616.831,40.448,37.974,23.686,1.204,794.910,
+,De 31 a 40 anos,212.650,623.793,57.279,88.142,25.523,3.514,1.010.901,
+,De 41 a 50 anos,183.811,426.909,73.654,71.280,34.491,5.155,795.300,
+,De 51 a 60 anos,131.595,239.893,85.122,39.514,63.574,8.349,568.047,
+,De 61 a 70 anos,30.782,74.869,46.910,24.075,53.855,5.559,236.050,
+,De 71 a 80 anos,1.070,7.554,4.170,4.386,9.792,265,27.237,
+,De 81 a 90 anos,36,1.500,671,34,2.737,20,4.998,
+,De 91 anos en adelante,1,170,67,12,464,1,715,
+,Rango Edad,635.865,2.046.103,311.235,265.417,220.021,24.144,3.502.785,
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de agosto  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Septiembre/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Septiembre de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,475,14.084,1.058,0,,40,18.505,2.848
+,De 21 a 30 anos,38.506,217.661,21.101,41.773,,530,331.354,11.783
+,De 31 a 40 anos,116.486,237.258,25.326,88.343,,1.643,482.496,13.440
+,De 41 a 50 anos,95.594,162.728,30.610,68.849,,2.733,380.645,20.131
+,De 51 a 60 anos,67.408,95.151,35.923,37.626,,4.646,280.839,40.085
+,De 61 a 70 anos,12.629,34.339,18.964,22.722,,3.003,123.758,32.101
+,De 71 a 80 anos,219,4.079,1.619,3.528,,127,15.824,6.252
+,De 81 a 90 anos,5,961,300,28,,10,3.181,1.877
+,De 91 anos en adelante,1,128,40,9,,0,543,365
+,Rango Edad,331.323,766.389,134.941,262.878,,12.732,1.637.145,128.882
+Hombre,De 15 a 20 anos,794,37.445,1.178,0,,33,42.257,2.807
+,De 21 a 30 anos,36.900,387.286,17.251,138,,537,453.317,11.205
+,De 31 a 40 anos,97.924,374.870,30.812,157,,1.528,516.461,11.170
+,De 41 a 50 anos,85.520,255.971,42.177,220,,2.061,399.031,13.082
+,De 51 a 60 anos,64.552,139.909,48.145,270,,3.156,277.996,21.964
+,De 61 a 70 anos,18.516,39.725,27.150,446,,2.177,108.156,20.142
+,De 71 a 80 anos,833,3.642,2.440,35,,91,10.710,3.669
+,De 81 a 90 anos,31,595,368,2,,11,1.931,924
+,De 91 anos en adelante,0,48,28,2,,0,183,105
+,Rango Edad,305.070,1.239.491,169.549,1.270,,9.594,1.810.042,85.068
+TOTAL,De 15 a 20 anos,1.269,51.529,2.236,0,,73,60.762,5.655
+,De 21 a 30 anos,75.406,604.947,38.352,41.911,,1.067,784.671,22.988
+,De 31 a 40 anos,214.410,612.128,56.138,88.500,,3.171,998.957,24.610
+,De 41 a 50 anos,181.114,418.699,72.787,69.069,,4.794,779.676,33.213
+,De 51 a 60 anos,131.960,235.060,84.068,37.896,,7.802,558.835,62.049
+,De 61 a 70 anos,31.145,74.064,46.114,23.168,,5.180,231.914,52.243
+,De 71 a 80 anos,1.052,7.721,4.059,3.563,,218,26.534,9.921
+,De 81 a 90 anos,36,1.556,668,30,,21,5.112,2.801
+,De 91 anos en adelante,1,176,68,11,,0,726,470
+,Rango Edad,636.393,2.005.880,304.490,264.148,,22.326,3.447.187,213.950
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de febrero  de 2024.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Historia Laboral Activos""  Fecha de corte 06/Marzo/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Marzo de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,427,14.151,1.396,0,,42,18.981,2.965
+,De 21 a 30 anos,39.078,219.271,22.066,34.540,,611,327.738,12.172
+,De 31 a 40 anos,116.645,240.334,25.981,78.731,,1.770,477.133,13.672
+,De 41 a 50 anos,97.903,164.404,31.042,64.456,,2.933,381.179,20.441
+,De 51 a 60 anos,68.296,95.710,36.372,36.365,,4.881,282.316,40.692
+,De 61 a 70 anos,12.833,34.360,19.244,23.085,,3.144,125.633,32.967
+,De 71 a 80 anos,225,3.942,1.655,4.188,,152,16.345,6.183
+,De 81 a 90 anos,4,942,308,31,,9,3.120,1.826
+,De 91 anos en adelante,1,126,42,9,,1,541,362
+,Rango Edad,335.412,773.240,138.106,241.405,,13.543,1.632.986,131.280
+Hombre,De 15 a 20 anos,746,39.947,1.491,0,,38,45.191,2.969
+,De 21 a 30 anos,36.748,396.762,18.248,115,,585,464.001,11.543
+,De 31 a 40 anos,97.918,381.933,31.194,142,,1.702,524.504,11.615
+,De 41 a 50 anos,86.798,261.040,42.418,204,,2.162,406.208,13.586
+,De 51 a 60 anos,64.828,143.425,48.647,255,,3.359,283.137,22.623
+,De 61 a 70 anos,18.806,40.430,27.482,442,,2.340,110.206,20.706
+,De 71 a 80 anos,845,3.565,2.470,47,,101,10.664,3.636
+,De 81 a 90 anos,31,576,369,2,,10,1.900,912
+,De 91 anos en adelante,0,54,27,3,,0,190,106
+,Rango Edad,306.720,1.267.732,172.346,1.210,,10.297,1.846.001,87.696
+TOTAL,De 15 a 20 anos,1.173,54.098,2.887,0,,80,64.172,5.934
+,De 21 a 30 anos,75.826,616.033,40.314,34.655,,1.196,791.739,23.715
+,De 31 a 40 anos,214.563,622.267,57.175,78.873,,3.472,1.001.637,25.287
+,De 41 a 50 anos,184.701,425.444,73.460,64.660,,5.095,787.387,34.027
+,De 51 a 60 anos,133.124,239.135,85.019,36.620,,8.240,565.453,63.315
+,De 61 a 70 anos,31.639,74.790,46.726,23.527,,5.484,235.839,53.673
+,De 71 a 80 anos,1.070,7.507,4.125,4.235,,253,27.009,9.819
+,De 81 a 90 anos,35,1.518,677,33,,19,5.020,2.738
+,De 91 anos en adelante,1,180,69,12,,1,731,468
+,Rango Edad,642.132,2.040.972,310.452,242.615,,23.840,3.478.987,218.976
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de julio  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Agosto/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Agosto de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,754,39.351,1.428,0,,33,44.533,2.967
+,De 21 a 30 anos,36.926,395.055,18.029,122,,583,462.182,11.467
+,De 31 a 40 anos,98.298,380.021,31.079,154,,1.662,522.798,11.584
+,De 41 a 50 anos,86.541,259.782,42.307,213,,2.126,404.461,13.492
+,De 51 a 60 anos,64.814,142.629,48.587,271,,3.331,282.194,22.562
+,De 61 a 70 anos,18.678,40.284,27.348,448,,2.291,109.655,20.606
+,De 71 a 80 anos,833,3.581,2.456,43,,99,10.629,3.617
+,De 81 a 90 anos,32,569,372,2,,12,1.898,911
+,De 91 anos en adelante,0,56,26,3,,0,193,108
+,Rango Edad,306.876,1.261.328,171.632,1.256,,10.137,1.838.543,87.314
+Hombre,De 15 a 20 anos,451,14.165,1.308,0,,41,18.944,2.979
+,De 21 a 30 anos,39.255,219.522,22.025,38.997,,593,332.471,12.079
+,De 31 a 40 anos,117.079,239.851,25.835,87.992,,1.736,486.175,13.682
+,De 41 a 50 anos,97.599,164.275,30.889,70.291,,2.844,386.302,20.404
+,De 51 a 60 anos,68.098,95.762,36.326,38.828,,4.819,284.426,40.593
+,De 61 a 70 anos,12.605,34.336,19.159,23.400,,3.118,125.457,32.839
+,De 71 a 80 anos,219,3.977,1.630,4.034,,151,16.233,6.222
+,De 81 a 90 anos,4,941,301,30,,9,3.126,1.841
+,De 91 anos en adelante,1,126,41,8,,1,536,359
+,Rango Edad,335.311,772.955,137.514,263.580,,13.312,1.653.670,130.998
+TOTAL,De 15 a 20 anos,1.205,53.516,2.736,0,,74,63.477,5.946
+,De 21 a 30 anos,76.181,614.577,40.054,39.119,,1.176,794.653,23.546
+,De 31 a 40 anos,215.377,619.872,56.914,88.146,,3.398,1.008.973,25.266
+,De 41 a 50 anos,184.140,424.057,73.196,70.504,,4.970,790.763,33.896
+,De 51 a 60 anos,132.912,238.391,84.913,39.099,,8.150,566.620,63.155
+,De 61 a 70 anos,31.283,74.620,46.507,23.848,,5.409,235.112,53.445
+,De 71 a 80 anos,1.052,7.558,4.086,4.077,,250,26.862,9.839
+,De 81 a 90 anos,36,1.510,673,32,,21,5.024,2.752
+,De 91 anos en adelante,1,182,67,11,,1,729,467
+,Rango Edad,642.187,2.034.283,309.146,264.836,,23.449,3.492.213,218.312
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de junio  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Julio/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Julio de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,490,14446,1162,0,,42,19058.0,2918
+,De 21 a 30 anos,39358,218926,21848,36792,,563,329392.0,11905
+,De 31 a 40 anos,117120,238430,25699,79990,,1678,476502.0,13585
+,De 41 a 50 anos,96621,163002,30789,64273,,2803,377784.0,20296
+,De 51 a 60 anos,67567,95348,36144,36047,,4715,280175.0,40354
+,De 61 a 70 anos,12237,34267,19126,22745,,3056,123890.0,32459
+,De 71 a 80 anos,218,4029,1609,3797,,131,16022.0,6238
+,De 81 a 90 anos,4,949,301,29,,9,3141.0,1849
+,De 91 anos en adelante,1,124,40,8,,0,533.0,360
+,Rango Edad,333616,769521,136718,243681,,12997,1626497.0,129964
+Hombre,De 15 a 20 anos,773,38524,1297,0,,31,43556.0,2931
+,De 21 a 30 anos,37285,391358,17913,130,,565,458610.0,11359
+,De 31 a 40 anos,98429,377180,31030,146,,1600,519753.0,11368
+,De 41 a 50 anos,86008,257047,42254,202,,2080,400879.0,13288
+,De 51 a 60 anos,64581,140775,48418,266,,3242,279612.0,22330
+,De 61 a 70 anos,18419,39900,27238,445,,2236,108655.0,20417
+,De 71 a 80 anos,826,3603,2450,36,,97,10628.0,3616
+,De 81 a 90 anos,32,581,370,2,,11,1909.0,913
+,De 91 anos en adelante,0,55,26,3,,0,187.0,103
+,Rango Edad,306353,1249023,170996,1230,,9862,1823789.0,86325
+TOTAL,De 15 a 20 anos,1263,52970,2459,0,,73,62614.0,5849
+,De 21 a 30 anos,76643,610284,39761,36922,,1128,788002.0,23264
+,De 31 a 40 anos,215549,615610,56729,80136,,3278,996255.0,24953
+,De 41 a 50 anos,182629,420049,73043,64475,,4883,778663.0,33584
+,De 51 a 60 anos,132148,236123,84562,36313,,7957,559787.0,62684
+,De 61 a 70 anos,30656,74167,46364,23190,,5292,232545.0,52876
+,De 71 a 80 anos,1044,7632,4059,3833,,228,26650.0,9854
+,De 81 a 90 anos,36,1530,671,31,,20,5050.0,2762
+,De 91 anos en adelante,1,179,66,11,,0,720.0,463
+,Rango Edad,639969,2018544,307714,244911,,22859,3450286.0,216289
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de abril  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoría ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 05/Mayo/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Mayo de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,VOLUNTARIOS EN EL ECUADOR,VOLUNTARIOS EN EL EXTERIOR,,
+Mujer,De 15 a 20 anos,468,14.476,1.209,0,2.948,43,19.144,
+,De 21 a 30 anos,39.502,219.619,21.958,36.098,12.020,581,329.778,
+,De 31 a 40 anos,117.404,239.275,25.717,79.932,13.648,1.695,477.671,
+,De 41 a 50 anos,97.246,163.691,30.842,64.766,20.330,2.819,379.694,
+,De 51 a 60 anos,67.867,95.510,36.286,36.502,40.498,4.761,281.424,
+,De 61 a 70 anos,12.425,34.328,19.139,22.967,32.624,3.085,124.568,
+,De 71 a 80 anos,216,4.015,1.615,3.919,6.235,144,16.144,
+,De 81 a 90 anos,4,946,302,31,1.832,9,3.124,
+,De 91 anos en adelante,1,123,40,8,358,0,530,
+,Rango Edad,335.133,771.983,137.108,244.223,130.493,13.137,1.632.077,
+Hombre,De 15 a 20 anos,740,39.125,1.356,0,2.940,32,44.193,
+,De 21 a 30 anos,37.118,393.919,17.986,122,11.451,576,461.172,
+,De 31 a 40 anos,98.578,378.795,31.022,146,11.453,1.630,521.624,
+,De 41 a 50 anos,86.316,258.373,42.247,204,13.400,2.096,402.636,
+,De 51 a 60 anos,64.760,141.496,48.536,263,22.488,3.282,280.825,
+,De 61 a 70 anos,18.578,39.955,27.284,446,20.543,2.261,109.067,
+,De 71 a 80 anos,836,3.605,2.437,41,3.607,101,10.627,
+,De 81 a 90 anos,32,576,370,2,920,11,1.911,
+,De 91 anos en adelante,0,54,25,3,103,0,185,
+,Rango Edad,306.958,1.255.898,171.263,1.227,86.905,9.989,1.832.240,
+TOTAL,De 15 a 20 anos,1.208,53.601,2.565,0,5.888,75,63.337,
+,De 21 a 30 anos,76.620,613.538,39.944,36.220,23.471,1.157,790.950,
+,De 31 a 40 anos,215.982,618.070,56.739,80.078,25.101,3.325,999.295,
+,De 41 a 50 anos,183.562,422.064,73.089,64.970,33.730,4.915,782.330,
+,De 51 a 60 anos,132.627,237.006,84.822,36.765,62.986,8.043,562.249,
+,De 61 a 70 anos,31.003,74.283,46.423,23.413,53.167,5.346,233.635,
+,De 71 a 80 anos,1.052,7.620,4.052,3.960,9.842,245,26.771,
+,De 81 a 90 anos,36,1.522,672,33,2.752,20,5.035,
+,De 91 anos en adelante,1,177,65,11,461,0,715,
+,Rango Edad,642.091,2.027.881,308.371,245.450,217.398,23.126,3.464.317,
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de mayo  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 05/Junio/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Junio de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,494,13.886,1.111,1,,40,18.401,2.869
+,De 21 a 30 anos,38.924,216.749,21.391,41.307,,544,330.838,11.923
+,De 31 a 40 anos,116.637,237.004,25.555,88.612,,1.647,483.024,13.569
+,De 41 a 50 anos,95.978,162.427,30.676,69.678,,2.775,381.712,20.178
+,De 51 a 60 anos,67.601,95.145,36.065,38.275,,4.677,281.983,40.220
+,De 61 a 70 anos,12.773,34.200,19.010,22.850,,3.031,124.150,32.286
+,De 71 a 80 anos,218,4.053,1.609,3.583,,121,15.851,6.267
+,De 81 a 90 anos,5,952,301,28,,9,3.159,1.864
+,De 91 anos en adelante,1,124,39,9,,0,534,361
+,Rango Edad,332.631,764.540,135.757,264.343,,12.844,1.639.652,129.537
+Hombre,De 15 a 20 anos,772,37.649,1.228,0,,35,42.583,2.899
+,De 21 a 30 anos,36.975,387.960,17.517,135,,540,454.421,11.294
+,De 31 a 40 anos,97.864,375.470,30.987,158,,1.563,517.283,11.241
+,De 41 a 50 anos,85.676,256.466,42.256,218,,2.058,399.832,13.158
+,De 51 a 60 anos,64.598,140.340,48.298,279,,3.195,278.812,22.102
+,De 61 a 70 anos,18.642,39.794,27.222,445,,2.210,108.626,20.313
+,De 71 a 80 anos,827,3.611,2.455,35,,98,10.683,3.657
+,De 81 a 90 anos,32,587,365,1,,11,1.910,914
+,De 91 anos en adelante,0,51,26,3,,0,182,102
+,Rango Edad,305.386,1.241.928,170.354,1.274,,9.710,1.814.332,85.680
+TOTAL,De 15 a 20 anos,1.266,51.535,2.339,1,,75,60.984,5.768
+,De 21 a 30 anos,75.899,604.709,38.908,41.442,,1.084,785.259,23.217
+,De 31 a 40 anos,214.501,612.474,56.542,88.770,,3.210,1.000.307,24.810
+,De 41 a 50 anos,181.654,418.893,72.932,69.896,,4.833,781.544,33.336
+,De 51 a 60 anos,132.199,235.485,84.363,38.554,,7.872,560.795,62.322
+,De 61 a 70 anos,31.415,73.994,46.232,23.295,,5.241,232.776,52.599
+,De 71 a 80 anos,1.045,7.664,4.064,3.618,,219,26.534,9.924
+,De 81 a 90 anos,37,1.539,666,29,,20,5.069,2.778
+,De 91 anos en adelante,1,175,65,12,,0,716,463
+,Rango Edad,638.017,2.006.468,306.111,265.617,,22.554,3.453.984,215.217
+Nota Tecnica 1: La Informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La Informacion tiene fecha de corte hasta el ultimo dia del mes de marzo  de 2025.,,,,,,,,,
+Nota Tecnica 3: La Informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoría ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la Informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Abril/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la Informacion Abril de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,444,14.458,1.023,0,,37,18.766,2.804
+,De 21 a 30 anos,37.605,218.763,20.901,42.687,,520,332.152,11.676
+,De 31 a 40 anos,115.855,237.383,25.265,89.189,,1.621,482.684,13.371
+,De 41 a 50 anos,94.999,162.650,30.505,69.358,,2.715,380.205,19.978
+,De 51 a 60 anos,67.122,95.193,35.879,37.993,,4.588,280.609,39.834
+,De 61 a 70 anos,12.438,34.409,18.893,22.925,,2.992,123.517,31.860
+,De 71 a 80 anos,222,4.112,1.622,3.483,,129,15.830,6.262
+,De 81 a 90 anos,5,964,301,26,,9,3.185,1.880
+,De 91 anos en adelante,1,130,42,10,,0,549,366
+,Rango Edad,328.691,768.062,134.431,265.671,,12.611,1.637.497,128.031
+Hombre,De 15 a 20 anos,769,37.843,1.154,0,,33,42.567,2.768
+,De 21 a 30 anos,36.385,387.616,17.171,141,,525,452.920,11.082
+,De 31 a 40 anos,97.435,374.634,30.749,159,,1.512,515.540,11.051
+,De 41 a 50 anos,85.041,255.684,42.207,222,,2.016,398.104,12.934
+,De 51 a 60 anos,64.331,139.842,48.045,278,,3.128,277.512,21.888
+,De 61 a 70 anos,18.314,39.765,27.085,451,,2.146,107.728,19.967
+,De 71 a 80 anos,843,3.686,2.457,32,,93,10.768,3.657
+,De 81 a 90 anos,32,597,367,2,,11,1.944,935
+,De 91 anos en adelante,0,47,29,2,,0,187,109
+,Rango Edad,303.150,1.239.714,169.264,1.287,,9.464,1.807.270,84.391
+TOTAL,De 15 a 20 anos,1.213,52.301,2.177,0,,70,61.333,5.572
+,De 21 a 30 anos,73.990,606.379,38.072,42.828,,1.045,785.072,22.758
+,De 31 a 40 anos,213.290,612.017,56.014,89.348,,3.133,998.224,24.422
+,De 41 a 50 anos,180.040,418.334,72.712,69.580,,4.731,778.309,32.912
+,De 51 a 60 anos,131.453,235.035,83.924,38.271,,7.716,558.121,61.722
+,De 61 a 70 anos,30.752,74.174,45.978,23.376,,5.138,231.245,51.827
+,De 71 a 80 anos,1.065,7.798,4.079,3.515,,222,26.598,9.919
+,De 81 a 90 anos,37,1.561,668,28,,20,5.129,2.815
+,De 91 anos en adelante,1,177,71,12,,0,736,475
+,Rango Edad,631.841,2.007.776,303.695,266.958,,22.075,3.444.767,212.422
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene  fecha de corte  hasta el ultimo dia del mes de diciembre  de 2024.,,,,,,,,,
+Nota Tecnica 3: La informacion no completa afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 07/Febrero/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Febrero de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,VOLUNTARIOS EN EL ECUADOR,VOLUNTARIOS EN EL EXTERIOR,,
+Mujer,De 15 a 20 anos,405,14.220,1.400,0,2.933,42,19.000,
+,De 21 a 30 anos,38.484,219.350,22.087,37.855,12.177,622,330.575,
+,De 31 a 40 anos,115.557,241.099,26.075,87.991,13.760,1.809,486.291,
+,De 41 a 50 anos,97.500,164.785,31.112,71.069,20.708,2.959,388.133,
+,De 51 a 60 anos,67.508,95.838,36.409,39.248,40.804,4.955,284.762,
+,De 61 a 70 anos,12.396,34.302,19.351,23.629,33.173,3.187,126.038,
+,De 71 a 80 anos,225,3.953,1.674,4.335,6.141,158,16.486,
+,De 81 a 90 anos,4,931,303,32,1.822,10,3.102,
+,De 91 anos en adelante,1,121,41,9,360,0,532,
+,Rango Edad,332.080,774.599,138.452,264.168,131.878,13.742,1.654.919,
+Hombre,De 15 a 20 anos,748,40.364,1.514,0,2.966,35,45.627,
+,De 21 a 30 anos,36.283,397.481,18.361,119,11.509,582,464.335,
+,De 31 a 40 anos,97.093,382.694,31.204,151,11.763,1.705,524.610,
+,De 41 a 50 anos,86.311,262.124,42.542,211,13.783,2.196,407.167,
+,De 51 a 60 anos,64.087,144.055,48.713,266,22.770,3.394,283.285,
+,De 61 a 70 anos,18.386,40.567,27.559,446,20.682,2.372,110.012,
+,De 71 a 80 anos,845,3.601,2.496,51,3.651,107,10.751,
+,De 81 a 90 anos,32,569,368,2,915,10,1.896,
+,De 91 anos en adelante,0,49,26,3,104,1,183,
+,Rango Edad,303.785,1.271.504,172.783,1.249,88.143,10.402,1.847.866,
+TOTAL,De 15 a 20 anos,1.153,54.584,2.914,0,5.899,77,64.627,
+,De 21 a 30 anos,74.767,616.831,40.448,37.974,23.686,1.204,794.910,
+,De 31 a 40 anos,212.650,623.793,57.279,88.142,25.523,3.514,1.010.901,
+,De 41 a 50 anos,183.811,426.909,73.654,71.280,34.491,5.155,795.300,
+,De 51 a 60 anos,131.595,239.893,85.122,39.514,63.574,8.349,568.047,
+,De 61 a 70 anos,30.782,74.869,46.910,24.075,53.855,5.559,236.050,
+,De 71 a 80 anos,1.070,7.554,4.170,4.386,9.792,265,27.237,
+,De 81 a 90 anos,36,1.500,671,34,2.737,20,4.998,
+,De 91 anos en adelante,1,170,67,12,464,1,715,
+,Rango Edad,635.865,2.046.103,311.235,265.417,220.021,24.144,3.502.785,
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de agosto  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Septiembre/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Septiembre de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,475,14.084,1.058,0,,40,18.505,2.848
+,De 21 a 30 anos,38.506,217.661,21.101,41.773,,530,331.354,11.783
+,De 31 a 40 anos,116.486,237.258,25.326,88.343,,1.643,482.496,13.440
+,De 41 a 50 anos,95.594,162.728,30.610,68.849,,2.733,380.645,20.131
+,De 51 a 60 anos,67.408,95.151,35.923,37.626,,4.646,280.839,40.085
+,De 61 a 70 anos,12.629,34.339,18.964,22.722,,3.003,123.758,32.101
+,De 71 a 80 anos,219,4.079,1.619,3.528,,127,15.824,6.252
+,De 81 a 90 anos,5,961,300,28,,10,3.181,1.877
+,De 91 anos en adelante,1,128,40,9,,0,543,365
+,Rango Edad,331.323,766.389,134.941,262.878,,12.732,1.637.145,128.882
+Hombre,De 15 a 20 anos,794,37.445,1.178,0,,33,42.257,2.807
+,De 21 a 30 anos,36.900,387.286,17.251,138,,537,453.317,11.205
+,De 31 a 40 anos,97.924,374.870,30.812,157,,1.528,516.461,11.170
+,De 41 a 50 anos,85.520,255.971,42.177,220,,2.061,399.031,13.082
+,De 51 a 60 anos,64.552,139.909,48.145,270,,3.156,277.996,21.964
+,De 61 a 70 anos,18.516,39.725,27.150,446,,2.177,108.156,20.142
+,De 71 a 80 anos,833,3.642,2.440,35,,91,10.710,3.669
+,De 81 a 90 anos,31,595,368,2,,11,1.931,924
+,De 91 anos en adelante,0,48,28,2,,0,183,105
+,Rango Edad,305.070,1.239.491,169.549,1.270,,9.594,1.810.042,85.068
+TOTAL,De 15 a 20 anos,1.269,51.529,2.236,0,,73,60.762,5.655
+,De 21 a 30 anos,75.406,604.947,38.352,41.911,,1.067,784.671,22.988
+,De 31 a 40 anos,214.410,612.128,56.138,88.500,,3.171,998.957,24.610
+,De 41 a 50 anos,181.114,418.699,72.787,69.069,,4.794,779.676,33.213
+,De 51 a 60 anos,131.960,235.060,84.068,37.896,,7.802,558.835,62.049
+,De 61 a 70 anos,31.145,74.064,46.114,23.168,,5.180,231.914,52.243
+,De 71 a 80 anos,1.052,7.721,4.059,3.563,,218,26.534,9.921
+,De 81 a 90 anos,36,1.556,668,30,,21,5.112,2.801
+,De 91 anos en adelante,1,176,68,11,,0,726,470
+,Rango Edad,636.393,2.005.880,304.490,264.148,,22.326,3.447.187,213.950
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de febrero  de 2024.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Historia Laboral Activos""  Fecha de corte 06/Marzo/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Marzo de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,427,14.151,1.396,0,,42,18.981,2.965
+,De 21 a 30 anos,39.078,219.271,22.066,34.540,,611,327.738,12.172
+,De 31 a 40 anos,116.645,240.334,25.981,78.731,,1.770,477.133,13.672
+,De 41 a 50 anos,97.903,164.404,31.042,64.456,,2.933,381.179,20.441
+,De 51 a 60 anos,68.296,95.710,36.372,36.365,,4.881,282.316,40.692
+,De 61 a 70 anos,12.833,34.360,19.244,23.085,,3.144,125.633,32.967
+,De 71 a 80 anos,225,3.942,1.655,4.188,,152,16.345,6.183
+,De 81 a 90 anos,4,942,308,31,,9,3.120,1.826
+,De 91 anos en adelante,1,126,42,9,,1,541,362
+,Rango Edad,335.412,773.240,138.106,241.405,,13.543,1.632.986,131.280
+Hombre,De 15 a 20 anos,746,39.947,1.491,0,,38,45.191,2.969
+,De 21 a 30 anos,36.748,396.762,18.248,115,,585,464.001,11.543
+,De 31 a 40 anos,97.918,381.933,31.194,142,,1.702,524.504,11.615
+,De 41 a 50 anos,86.798,261.040,42.418,204,,2.162,406.208,13.586
+,De 51 a 60 anos,64.828,143.425,48.647,255,,3.359,283.137,22.623
+,De 61 a 70 anos,18.806,40.430,27.482,442,,2.340,110.206,20.706
+,De 71 a 80 anos,845,3.565,2.470,47,,101,10.664,3.636
+,De 81 a 90 anos,31,576,369,2,,10,1.900,912
+,De 91 anos en adelante,0,54,27,3,,0,190,106
+,Rango Edad,306.720,1.267.732,172.346,1.210,,10.297,1.846.001,87.696
+TOTAL,De 15 a 20 anos,1.173,54.098,2.887,0,,80,64.172,5.934
+,De 21 a 30 anos,75.826,616.033,40.314,34.655,,1.196,791.739,23.715
+,De 31 a 40 anos,214.563,622.267,57.175,78.873,,3.472,1.001.637,25.287
+,De 41 a 50 anos,184.701,425.444,73.460,64.660,,5.095,787.387,34.027
+,De 51 a 60 anos,133.124,239.135,85.019,36.620,,8.240,565.453,63.315
+,De 61 a 70 anos,31.639,74.790,46.726,23.527,,5.484,235.839,53.673
+,De 71 a 80 anos,1.070,7.507,4.125,4.235,,253,27.009,9.819
+,De 81 a 90 anos,35,1.518,677,33,,19,5.020,2.738
+,De 91 anos en adelante,1,180,69,12,,1,731,468
+,Rango Edad,642.132,2.040.972,310.452,242.615,,23.840,3.478.987,218.976
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de julio  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Agosto/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Agosto de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,754,39.351,1.428,0,,33,44.533,2.967
+,De 21 a 30 anos,36.926,395.055,18.029,122,,583,462.182,11.467
+,De 31 a 40 anos,98.298,380.021,31.079,154,,1.662,522.798,11.584
+,De 41 a 50 anos,86.541,259.782,42.307,213,,2.126,404.461,13.492
+,De 51 a 60 anos,64.814,142.629,48.587,271,,3.331,282.194,22.562
+,De 61 a 70 anos,18.678,40.284,27.348,448,,2.291,109.655,20.606
+,De 71 a 80 anos,833,3.581,2.456,43,,99,10.629,3.617
+,De 81 a 90 anos,32,569,372,2,,12,1.898,911
+,De 91 anos en adelante,0,56,26,3,,0,193,108
+,Rango Edad,306.876,1.261.328,171.632,1.256,,10.137,1.838.543,87.314
+Hombre,De 15 a 20 anos,451,14.165,1.308,0,,41,18.944,2.979
+,De 21 a 30 anos,39.255,219.522,22.025,38.997,,593,332.471,12.079
+,De 31 a 40 anos,117.079,239.851,25.835,87.992,,1.736,486.175,13.682
+,De 41 a 50 anos,97.599,164.275,30.889,70.291,,2.844,386.302,20.404
+,De 51 a 60 anos,68.098,95.762,36.326,38.828,,4.819,284.426,40.593
+,De 61 a 70 anos,12.605,34.336,19.159,23.400,,3.118,125.457,32.839
+,De 71 a 80 anos,219,3.977,1.630,4.034,,151,16.233,6.222
+,De 81 a 90 anos,4,941,301,30,,9,3.126,1.841
+,De 91 anos en adelante,1,126,41,8,,1,536,359
+,Rango Edad,335.311,772.955,137.514,263.580,,13.312,1.653.670,130.998
+TOTAL,De 15 a 20 anos,1.205,53.516,2.736,0,,74,63.477,5.946
+,De 21 a 30 anos,76.181,614.577,40.054,39.119,,1.176,794.653,23.546
+,De 31 a 40 anos,215.377,619.872,56.914,88.146,,3.398,1.008.973,25.266
+,De 41 a 50 anos,184.140,424.057,73.196,70.504,,4.970,790.763,33.896
+,De 51 a 60 anos,132.912,238.391,84.913,39.099,,8.150,566.620,63.155
+,De 61 a 70 anos,31.283,74.620,46.507,23.848,,5.409,235.112,53.445
+,De 71 a 80 anos,1.052,7.558,4.086,4.077,,250,26.862,9.839
+,De 81 a 90 anos,36,1.510,673,32,,21,5.024,2.752
+,De 91 anos en adelante,1,182,67,11,,1,729,467
+,Rango Edad,642.187,2.034.283,309.146,264.836,,23.449,3.492.213,218.312
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de junio  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoria ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 04/Julio/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Julio de 2025",,,,,,,,,
+,,PUBLICA,PRIVADA,INDEPENDIENTES,SEMI CONTRIBUTIVO,,VOLUNTARIOS EN EL EXTERIOR,,VOLUNTARIOS EN EL ECUADOR
+Mujer,De 15 a 20 anos,490,14446,1162,0,,42,19058.0,2918
+,De 21 a 30 anos,39358,218926,21848,36792,,563,329392.0,11905
+,De 31 a 40 anos,117120,238430,25699,79990,,1678,476502.0,13585
+,De 41 a 50 anos,96621,163002,30789,64273,,2803,377784.0,20296
+,De 51 a 60 anos,67567,95348,36144,36047,,4715,280175.0,40354
+,De 61 a 70 anos,12237,34267,19126,22745,,3056,123890.0,32459
+,De 71 a 80 anos,218,4029,1609,3797,,131,16022.0,6238
+,De 81 a 90 anos,4,949,301,29,,9,3141.0,1849
+,De 91 anos en adelante,1,124,40,8,,0,533.0,360
+,Rango Edad,333616,769521,136718,243681,,12997,1626497.0,129964
+Hombre,De 15 a 20 anos,773,38524,1297,0,,31,43556.0,2931
+,De 21 a 30 anos,37285,391358,17913,130,,565,458610.0,11359
+,De 31 a 40 anos,98429,377180,31030,146,,1600,519753.0,11368
+,De 41 a 50 anos,86008,257047,42254,202,,2080,400879.0,13288
+,De 51 a 60 anos,64581,140775,48418,266,,3242,279612.0,22330
+,De 61 a 70 anos,18419,39900,27238,445,,2236,108655.0,20417
+,De 71 a 80 anos,826,3603,2450,36,,97,10628.0,3616
+,De 81 a 90 anos,32,581,370,2,,11,1909.0,913
+,De 91 anos en adelante,0,55,26,3,,0,187.0,103
+,Rango Edad,306353,1249023,170996,1230,,9862,1823789.0,86325
+TOTAL,De 15 a 20 anos,1263,52970,2459,0,,73,62614.0,5849
+,De 21 a 30 anos,76643,610284,39761,36922,,1128,788002.0,23264
+,De 31 a 40 anos,215549,615610,56729,80136,,3278,996255.0,24953
+,De 41 a 50 anos,182629,420049,73043,64475,,4883,778663.0,33584
+,De 51 a 60 anos,132148,236123,84562,36313,,7957,559787.0,62684
+,De 61 a 70 anos,30656,74167,46364,23190,,5292,232545.0,52876
+,De 71 a 80 anos,1044,7632,4059,3833,,228,26650.0,9854
+,De 81 a 90 anos,36,1530,671,31,,20,5050.0,2762
+,De 91 anos en adelante,1,179,66,11,,0,720.0,463
+,Rango Edad,639969,2018544,307714,244911,,22859,3450286.0,216289
+Nota Tecnica 1: La informacion se extrae de las planillas generadas dentro del periodo.,,,,,,,,,
+Nota Tecnica 2: La informacion tiene fecha de corte hasta el ultimo dia del mes de abril  de 2025.,,,,,,,,,
+Nota Tecnica 3: La informacion no contempla  afiliaciones simultaneas.,,,,,,,,,
+"Nota Tecnica 4: La categoría ""Independientes"" incluye a trabajadores independientes, pasantes del sector publico y privado, asi como a artistas y gestores culturales",,,,,,,,,
+"Nota Tecnica 5: Conforme se determina en el articulo 73 de la Ley de Seguridad Social, el empleador es responsable de registrar en el Sistema de Historia Laboral todas las novedades que afecten al trabajador en los plazos establecidos; por lo que la informacion que reposa en historia laboral es la declarada por el empleador.",,,,,,,,,
+"Fuente: Business Intelligence -  ""Cubo Afiliados Activos""  Fecha de corte 05/Mayo/2025",,,,,,,,,
+"Elaborado: Subdireccion Nacional de Afiliacion, Cobertura y Gestion de la informacion Mayo de 2025",,,,,,,,,
