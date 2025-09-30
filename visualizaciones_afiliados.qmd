@@ -3,7 +3,7 @@ title: "Visualizaciones — Afiliados 2025 (Ene–Ago)"
 format:
   html:
     toc: true
-jupyter: lab-afiliados-2025
+jupyter: python3
 execute:
   echo: false
   warning: false
@@ -13,7 +13,8 @@ execute:
 ## 1) Cargar datos
 ```{python}
 df.columns.tolist(), df.select_dtypes("number").columns.tolist()
-
+```
+```{python}
 import pandas as pd
 import matplotlib.pyplot as plt
 
@@ -23,18 +24,4 @@ plt.rcParams["figure.autolayout"] = True
 
 df = pd.read_csv("data/dataset.csv")
 df.head()
-
-## 2) EDITA AQUÍ: nombres de columnas
-
-## 2) EDITA AQUÍ: nombres de columnas
-```{python}
-# Cambia por los nombres reales de TU dataset.csv:
-col_categoria = "SEXO"        # ej.: "SEXO" / "RANGO ETARIO" / "PROVINCIA" ...
-col_valor     = "AFILIADOS"   # columna NUMÉRICA a sumar
-col_fecha     = None          # si tienes fecha/mes, pon el nombre; si no, deja None
-col_x         = None          # numérica para scatter (ej.: "EDAD_MEDIA")
-col_y         = None          # otra numérica para scatter (ej.: "APORTES_USD")
-col_hue       = None          # (opcional) categórica para color
-
 ```
-
