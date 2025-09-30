@@ -1,0 +1,18 @@
+---
+title: "TEST EXEC"
+engine: jupyter
+format: html
+execute:
+  eval: true
+  echo: true
+kernelspec:
+  name: python3
+  language: python
+  display_name: "Python 3 (qt311)"
+---
+
+```{python}
+import sys
+print("PY:", sys.version.split()[0])
+2 + 2
+```

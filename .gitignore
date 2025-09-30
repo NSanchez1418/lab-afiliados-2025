@@ -5,3 +5,6 @@ _freeze/
 index_files/
 **/.ipynb_checkpoints/
 
+
+/.quarto/
+**/*.quarto_ipynb
