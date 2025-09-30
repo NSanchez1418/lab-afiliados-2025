@@ -1,19 +1,16 @@
+```{python}
+2 + 2
+```
+
 ---
 title: "Visualizaciones — Afiliados 2025 (Ene–Ago)"
-format:
-  html:
-    toc: true
-jupyter: python3
-execute:
-  echo: false
-  warning: false
-  message: false
+engine: jupyter
+jupyter: mia311     # usa el kernel que registraste arriba
 ---
 
+
 ## 1) Cargar datos
-```{python}
-df.columns.tolist(), df.select_dtypes("number").columns.tolist()
-```
+
 ```{python}
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,4 +21,7 @@ plt.rcParams["figure.autolayout"] = True
 
 df = pd.read_csv("data/dataset.csv")
 df.head()
+```
+```{python}
+df.columns.tolist(), df.select_dtypes("number").columns.tolist()
 ```

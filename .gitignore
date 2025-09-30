@@ -1,6 +1,7 @@
+.qt311/
 .venv/
-index_files/
 .quarto/
-_site
-/.quarto/
-**/*.quarto_ipynb
+_freeze/
+index_files/
+**/.ipynb_checkpoints/
+
