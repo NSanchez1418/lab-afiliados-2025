@@ -1,24 +1,22 @@
-project:
+﻿project:
   type: website
   output-dir: docs
 
 engine: jupyter
-
-jupyter:
-  # ruta fija al Python del venv limpio
-  python: "C:/Users/Martin Sanchez/Desktop/NS/MIA/ML/lab_afiliados_2025/.qt311/Scripts/python.exe"
-
 execute:
-  eval: true
   echo: false
   warning: false
-  message: false
-  freeze: false
+  error: false
 
 format:
   html:
     toc: true
-    code-fold: false
-    code-overflow: wrap
-    df-print: paged
 
+website:
+  title: "Lab Visualización — Afiliados 2025"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: visualizaciones_afiliados.qmd
+        text: Visualizaciones
