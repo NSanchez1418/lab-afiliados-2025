@@ -9,6 +9,7 @@ format:
 
 Este sitio contiene **tres visualizaciones** creadas en Python a partir del dataset combinado (enero–agosto 2025).
 
-- 👉 Ve a **Visualizaciones** en el menú superior para ver los gráficos.
+- 👉 Abre **Visualizaciones** en la barra superior para ver los gráficos.
+- Fuente de datos: archivos mensuales combinados en `data/dataset.csv`.
 
 
