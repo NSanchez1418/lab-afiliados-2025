@@ -1,27 +1,77 @@
-```{python}
-2 + 2
-```
-
 ---
 title: "Visualizaciones — Afiliados 2025 (Ene–Ago)"
+format: html
 engine: jupyter
-jupyter: mia311     # usa el kernel que registraste arriba
+execute:
+  echo: false
+  warning: false
+  error: false
 ---
 
-
-## 1) Cargar datos
-
+## 1) Cargar librerías y datos
 ```{python}
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# Ajustes recomendados
 plt.rcParams["figure.figsize"] = (9, 5)
 plt.rcParams["axes.grid"] = True
 plt.rcParams["figure.autolayout"] = True
 
-df = pd.read_csv("data/dataset.csv")
+# Lee el CSV (ajusta la ruta si hace falta)
+df = pd.read_csv("data/dataset.csv", thousands=".")
 df.head()
 ```
+
+## 2) Limpieza rápida (asegurar numéricos)
 ```{python}
-df.columns.tolist(), df.select_dtypes("number").columns.tolist()
+posibles_numericas = [
+    "PUBLICA","PRIVADA","INDEPENDIENTES","SEMI CONTRIBUTIVO",
+    "VOLUNTARIOS EN EL ECUADOR","VOLUNTARIOS EN EL EXTERIOR","TOTAL"
+]
+for c in posibles_numericas:
+    if c in df.columns:
+        df[c] = pd.to_numeric(df[c], errors="coerce")
+```
+
+## 3) Gráfico 1 — TOTAL por sexo
+```{python}
+if "SEXO" in df.columns and "TOTAL" in df.columns:
+    g1 = df.groupby("SEXO")["TOTAL"].sum().sort_values()
+    plt.figure()
+    g1.plot(kind="bar")
+    plt.title("Afiliados — TOTAL por sexo")
+    plt.ylabel("Afiliados")
+    plt.tight_layout()
+    plt.show()   # ← IMPORTANTE
+```
+
+## 4) Gráfico 2 — Top 5 rangos etarios por TOTAL
+```{python}
+if "RANGO ETARIO" in df.columns and "TOTAL" in df.columns:
+    g2 = (
+        df.groupby("RANGO ETARIO")["TOTAL"]
+          .sum()
+          .sort_values(ascending=False)
+          .head(5)
+    )
+    plt.figure()
+    g2.plot(kind="bar")
+    plt.title("Top 5 rangos etarios por TOTAL")
+    plt.ylabel("Afiliados")
+    plt.tight_layout()
+    plt.show()   # ← IMPORTANTE
+```
+
+## 5) Gráfico 3 — Afiliados por régimen
+```{python}
+reg_cols = [c for c in ["PUBLICA","PRIVADA","INDEPENDIENTES","SEMI CONTRIBUTIVO"] if c in df.columns]
+if reg_cols:
+    g3 = df[reg_cols].sum().sort_values(ascending=False)
+    plt.figure()
+    g3.plot(kind="bar")
+    plt.title("Afiliados por régimen")
+    plt.ylabel("Afiliados")
+    plt.tight_layout()
+    plt.show()   # ← IMPORTANTE
 ```
